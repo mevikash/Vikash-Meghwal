@@ -15,7 +15,7 @@ github_username:  mevikash
 facebook_username: mevikashvira
 # flickr_username: jekyll
 instagram_username: meghwalvikash
-linkedin_username: Vikash Meghwal
+# linkedin_username: Vikash Meghwal
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -41,18 +41,19 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Learning and Teaching some of my other interests and hobbies are:
-   - Art and Paintings
-   - Chess
-   - Cooking 
-   - Curious about Creative work
-   - Gaming 
-   - Long Jump
-   - Learning languages
-   - Massage therapy
+   - [Art and Paintings](https://www.youtube.com/watch?v=knbNwQog4Ro)
+   - [Chess](https://www.youtube.com/watch?v=MvXgXqfyV1k)
+   - [Cooking](https://www.youtube.com/watch?v=T4P9obOb7WY) 
+   - [Curious about Creative work](https://www.youtube.com/watch?v=3EOAXrTrsOE)
+   - [Gaming](https://www.youtube.com/watch?v=_YhrCp9m14k)
+   - [Long Jump](https://www.youtube.com/watch?v=fXIbLmlUdOQ)
+   - [Learning languages](http://www.russianlessons.net/lessons/lesson1_main.php)
+   - [Massage therapy](https://www.youtube.com/watch?v=qhxTDaBLQ9U)
    - [Music](https://www.youtube.com/watch?v=rjWnxIefo1g)
-   - Sleeping
-   - Traveling
-   - Yoga
+   - [Sleeping](https://www.youtube.com/watch?v=pgVHPeqAJ5M)
+   - [Traveling](https://www.youtube.com/watch?v=ORZDA9nUNfY)
+   - [Web Series](https://www.youtube.com/watch?v=1JLUn2DFW4w)
+   - [Yoga](https://www.youtube.com/watch?v=qhxTDaBLQ9U)
 
 # Footer
 footer_show_references: true
