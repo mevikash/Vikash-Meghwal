@@ -1,24 +1,25 @@
 # Site
-repository: sproogen/resume-theme
+repository: vikash/resume-theme
 favicon: favicon.ico
 
 # Personal info
 name: Vikash Meghwal
 title: Bachelor in Scince B.S. Chemistry
 email: mevikash@iitk.ac.in
+phone: 9024736762
 website: https://github.com/mevikash
 
 # Social links
 twitter_username: daneil_radcliff
 github_username:  mevikash
-# dribbble_username: jekyll
+# dribbble_username: mevikash
 facebook_username: mevikashvira
-# flickr_username: jekyll
+# flickr_username: mevikash
 instagram_username: meghwalvikash
 # linkedin_username: Vikash Meghwal
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+# pinterest_username: mevikash
+# youtube_username: mevikash
+# googleplus_username: +mevikash
 
 # About Section
 # about_title: About Me
@@ -59,7 +60,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: vikashsproogen/resume-theme
 
 sass:
   sass_dir: _sass
