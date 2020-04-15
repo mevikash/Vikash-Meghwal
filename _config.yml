@@ -22,7 +22,7 @@ linkedin_username: Vikash Meghwal
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vikash Meghwal and I'm a First Year Undergraduate pursuing B.S. in Chemistry from Indian Institute of Technology, Kanpur (2019 - 2023)...
 
