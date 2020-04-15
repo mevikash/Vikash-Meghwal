@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: favicon.ico
 
 # Personal info
 name: Vikash Meghwal
@@ -12,7 +12,7 @@ website: https://github.com/mevikash
 twitter_username: daneil_radcliff
 github_username:  mevikash
 # dribbble_username: jekyll
-facebook_username: jekyll
+facebook_username: mevikashvira
 # flickr_username: jekyll
 instagram_username: meghwalvikash
 linkedin_username: Vikash Meghwal
