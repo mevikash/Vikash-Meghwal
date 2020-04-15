@@ -6,7 +6,7 @@ favicon: favicon.ico
 name: Vikash Meghwal
 title: Bachelor in Scince B.S. Chemistry
 email: mevikash@iitk.ac.in
-phone: 9024736762
+phone: +919024736762
 website: https://github.com/mevikash
 
 # Social links
@@ -37,6 +37,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+B.S. Chemistry. Indian Institute of Technology Kanpur (Uttar Pradesh )
+12th Lawrence and Mayo Public School (Ajmer Rajasthan )
+11th G.R.Global Academy (Greater Noida Ghaziabad Uttar Pradesh)
+10th Bharti Public High School (Samba Jammu and Kashmir)
 
 # More Section
 # more_title: A Little More About Me
