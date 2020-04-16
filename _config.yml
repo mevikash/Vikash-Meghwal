@@ -5,7 +5,6 @@
 name: Vikash Meghwal
 title: Bachelor in Scince B.S. Chemistry
 email: mevikash@iitk.ac.in
-phone: +919024736762
 website: https://github.com/mevikash
 
 # Social links
@@ -58,11 +57,8 @@ more_content: | # this will include new lines to allow paragraphs
    - [Traveling](https://www.youtube.com/watch?v=ORZDA9nUNfY)
    - [Web Series](https://www.youtube.com/watch?v=1JLUn2DFW4w)
    - [Yoga](https://www.youtube.com/watch?v=qhxTDaBLQ9U)
-
-# More Section
-# more_title: Websites
-more_content: | # this will include new lines to allow paragraphs
-  - [Matlab](https://matlabacademy.mathworks.com/)
+   - [Matlab](https://matlabacademy.mathworks.com/)
+   
 # Footer
 footer_show_references: true
 
