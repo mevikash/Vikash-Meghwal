@@ -59,6 +59,10 @@ more_content: | # this will include new lines to allow paragraphs
    - [Web Series](https://www.youtube.com/watch?v=1JLUn2DFW4w)
    - [Yoga](https://www.youtube.com/watch?v=qhxTDaBLQ9U)
 
+# More Section
+# more_title: Websites
+more_content: | # this will include new lines to allow paragraphs
+  - [Matlab](https://matlabacademy.mathworks.com/)
 # Footer
 footer_show_references: true
 
